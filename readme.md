@@ -38,5 +38,5 @@ Incase of any issues please make a pull request and or raise an issue and i will
 contact me at:brianndichu.bn@gmail.com
 ### License
 MIT LICENSE
-Copyright (c) 2019 **Ndichu Brian**
+Copyright (c) 2019 ****
 
