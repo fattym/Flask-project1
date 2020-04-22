@@ -2,7 +2,7 @@
 
 #### This is an application that uses an API to gather data and display it on the webpage.
 
-#### By Brian Ndichu
+#### 
 
 ## Description
     This web application is built using Python framework known as Flask. The app displays information about news from most popular sources, top headlines in the World, categorical
