@@ -67,6 +67,6 @@ call me on
 ### License
 MIT License
 
-[LICENSE.md](LICENSE.md)
+[MIT License](LICENSE.md)
 Copyright (c) [2020] [Joseph Nganga]
 </a>
