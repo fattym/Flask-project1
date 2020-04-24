@@ -7,7 +7,7 @@ class Config:
 
     NEWS_API_BASE_URL="https://newsapi.org/v2/{}?country=us&apiKey={}"
 
-    NEWS_API_KEY='e9848d19677449d9bb53116781820443'
+    NEWS_API_KEY='8cbc00d0555f48fd877220b74ed1216d'
 
 
 class ProdConfig(Config):
