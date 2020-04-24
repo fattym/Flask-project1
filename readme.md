@@ -47,3 +47,9 @@ call me on
 <img src="https://bit.ly/383xk0Z" width="109" style="border-radius:50%;">:0778378174
  
  <img src="https://bit.ly/2Smueyp" width="109" style="border-radius:50%;">:nungari100@gmail.com
+### License
+MIT License
+
+[LICENSE.md](LICENSE.md)
+Copyright (c) [2020] [Joseph Nganga]
+</a>
