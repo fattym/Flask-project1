@@ -1,14 +1,20 @@
 # News API Application
 
-#### This is an application that uses an API to gather data and display it on the webpage.
+#### By:
+1. Joseph Nganga ; lead developer
+1. Moringa TM's ; Mentors
+1. Moringa Students ; Assistant designers
 
-#### 
 
 ## Description
     This web application is built using Python framework known as Flask. The app displays information about news from most popular sources, top headlines in the World, categorical
     and also a user can search for any topic he/she feels like.
+## Known Bugs
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result.
 
-##setup /Installation Requirements
+If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results
+
+## setup /Installation Requirements
 First clone the repo
    ```$ git clone  ```
 
@@ -34,9 +40,10 @@ Now navigate to your browser at: ```localhost:5000```
 *Bootstrap
 
 ## Support and contact details
-Incase of any issues please make a pull request and or raise an issue and i will take care of it.
-contact me at:brianndichu.bn@gmail.com
-### License
-MIT LICENSE
-Copyright (c) 2019 ****
+call me on
 
+<img src="https://bit.ly/2H4L6UZ" width="109" style="border-radius:50%;">:0798734442
+
+<img src="https://bit.ly/383xk0Z" width="109" style="border-radius:50%;">:0778378174
+ 
+ <img src="https://bit.ly/2Smueyp" width="109" style="border-radius:50%;">:nungari100@gmail.com
