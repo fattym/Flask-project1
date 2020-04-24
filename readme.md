@@ -33,11 +33,11 @@ Run the application:
 Now navigate to your browser at: ```localhost:5000```
 
 ## Technologies Used
-*Python
-*Flask
-*HTML5
-*CSS3
-*Bootstrap
+* Python
+* Flask
+* HTML5
+* CSS3
+* Bootstrap
 
 ## Support and contact details
 call me on
