@@ -20,7 +20,7 @@ def configure_request(app):
 
 def get_news(category):
     '''
-    Function that gets json response to our url request
+    Functionthat gets json response to our url request
     '''
 
     get_news_url = base_url.format(category, api_key)
